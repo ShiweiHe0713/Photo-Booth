@@ -1,2 +1,3 @@
 my-photo-booth/node_modules
 backend/env
+backend/.venv
