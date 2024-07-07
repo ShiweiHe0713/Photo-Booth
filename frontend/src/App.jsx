@@ -5,8 +5,6 @@ import './App.css'
 import PhotoBooth from './PhotoBooth'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
       <PhotoBooth />
@@ -14,4 +12,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
